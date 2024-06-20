@@ -49,6 +49,9 @@ Follow the steps below to set up and run the project on your local machine.
 
 Once you run the app, you can increment and decrement the counter using the provided buttons. The app state is managed by the BLoC, ensuring a clear separation between the UI and business logic.
 
+## Diagram
+
+For a detailed visual representation of the code structure and implementation, refer to the full diagram created in Canva: [Canva Diagram](https://www.canva.com/design/DAGIqQSld88/9HNAVUv_B0ll5KN_1Ls6Gw/edit?utm_content=DAGIqQSld88&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 ## Documentation
 
 For a detailed explanation of the code structure and implementation, refer to the official [BLoC documentation](https://bloclibrary.dev/tutorials/flutter-counter/).
